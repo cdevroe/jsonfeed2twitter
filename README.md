@@ -11,8 +11,8 @@ Parses a JSON Feed and updates a single Twitter account with a link to any new p
 
 ## Installation
 
-- Register an app at: http://dev.twitter.com/apps/new (Be sure to set it up as Read & Write!)
-- Update the setup area of jsonfeed2twitter.php
+- Register an app at: https://apps.twitter.com/app/new (Be sure to set it up as Read & Write!)
+- Update the configuration area of jsonfeed2twitter.php
     - This includes consumerKey, consumerToken, oAuthToken, oAuthTokenSecret from dev.twitter, JSON Feed URL, and Cache directory (optional)
 - Authorize your domain for the application on dev.twitter
     - To setup a test you can always add localhost
