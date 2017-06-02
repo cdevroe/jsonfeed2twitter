@@ -1,9 +1,8 @@
 # JSON Feed to Twitter using PHP
 
-*By:* Colin Devroe
-http://cdevroe.com/
-http://github.com/cdevroe
-https://github.com/cdevroe/jsonfeed2twitter
+**By:** [Colin Devroe](http://cdevroe.com/)
+
+Respository: https://github.com/cdevroe/jsonfeed2twitter
 
 ## Description
 
@@ -32,5 +31,5 @@ Please check Github Issues for more.
 
 ## Version History
 
-- *0.1 - June 2, 2017*
+- **0.1 - June 2, 2017**
     - Initial codebase
